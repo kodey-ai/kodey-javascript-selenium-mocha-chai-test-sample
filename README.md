@@ -80,3 +80,7 @@ In this sample, we will explore how Kodey.ai can create mocha chai test cases wi
 # Output PR should look like this
 
 ![screenshot](assets/pr.png)
+
+# Results of tests
+
+![screenshot](assets/test_success.png)
