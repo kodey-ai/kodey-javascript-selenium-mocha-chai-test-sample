@@ -76,3 +76,7 @@ In this sample, we will explore how Kodey.ai can create mocha chai test cases wi
 2. Confirm that the code created in the associated pull request contains the following
 3. You should see two additionals test cases added as per requirement in the new PR.
 4. Confirm that the work item/issue/ticket in your relevant issue tracking platform is updated.
+
+# Output PR should look like this
+
+![screenshot](assets/pr.png)
